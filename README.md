@@ -1,4 +1,4 @@
-💰 Simple Interest Calculator
+💰Simple Interest Calculator
 
 A clean and interactive Simple Interest Calculator built using HTML, CSS, and JavaScript.
 This web application allows users to calculate simple interest based on principal amount, interest rate, and time (in years).
